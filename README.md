@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafsanTanveer
 - 👀 I’m interested in web application and mobile development.
-- 🌱 I’m currently learning react js and react native.
+- 🌱 I’m currently working in react js and react native.
 - 💞️ I’m looking to collaborate on working in web application and cross platform mobile app.
 - 📫 How to reach me: you can find me on facebook, github and linkedin.
 
