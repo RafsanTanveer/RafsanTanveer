@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/rafsantanveer"><img src="https://api.daily.dev/devcards/00274685d4e648aa9e31a6bf8d5888c8.png?r=u57" width="400" alt="Rafsan Zani Rabbi's Dev Card"/></a>
-
+<!--- <a href="https://app.daily.dev/rafsantanveer"><img src="https://api.daily.dev/devcards/00274685d4e648aa9e31a6bf8d5888c8.png?r=u57" width="400" alt="Rafsan Zani Rabbi's Dev Card"/></a>
+--->
 - 👋 Hi, I’m @RafsanTanveer
 - 👀 I’m interested in web application and mobile development.
 - 🌱 I’m currently working in react native and next js.
